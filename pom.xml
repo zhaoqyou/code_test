@@ -4,10 +4,10 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.astest</groupId>
-    <artifactId>CodeTest</artifactId>
+    <artifactId>code_test</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>war</packaging>
-    <name>CodeTest</name>
+    <name>code_test</name>
     <description>mryx qa testsys!</description>
 
     <parent>
@@ -90,7 +90,7 @@
 
         <dependency>
             <groupId>com.mryx</groupId>
-            <artifactId>common-utils</artifactId>
+            <artifactId>common-com.astest.testsys.utils</artifactId>
             <version>0.0.3</version>
         </dependency>
         <!-- project lombok -->
